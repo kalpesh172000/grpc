@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package auth;
 
-option go_package = "github.com/grpc/proto";
+option go_package = "github.com/kalpesh172000/grpc/proto;proto";
 
 // Auth service definition
 service AuthService {

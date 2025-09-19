@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"golang.org/x/crypto/bcrypt"
-	"gorm.io/gorm"
+	_"gorm.io/gorm"
 )
 
 type User struct {
